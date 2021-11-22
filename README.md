@@ -1,1 +1,1 @@
-# promotionaEngine
+# promotionalEngine
